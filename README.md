@@ -1,4 +1,4 @@
 # Test
-This repo- is made for test.
+This repository is made for test.
 
 `C`, `python`, `html`
